@@ -1,3 +1,6 @@
+<head>
+<script src="https://cdn.lr-ingest.com/LogRocket.min.js" crossorigin="anonymous"></script>
+<script>window.LogRocket && window.LogRocket.init('tnma00/logrocket-hello-world');</script>
 const http = require('http');
 
 const hostname = '127.0.0.1';

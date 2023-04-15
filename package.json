@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RegisUniversity/MSES602_helloWorld#readme",
   "dependencies": {
     "http": "0.0.0",
+    "logrocket": "^4.0.0",
     "mocha": "^8.1.3"
   }
 }
