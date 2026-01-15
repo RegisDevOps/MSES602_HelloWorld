@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RegisUniversity/MSES602_helloWorld.git"
+    "url": "git+https://github.com/Yabina/MSES602_HelloWorld.git"
   },
   "author": "Bill Masters",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RegisUniversity/MSES602_helloWorld/issues"
+    "url": "https://github.com/Yabina/MSES602_HelloWorld/issues"
   },
-  "homepage": "https://github.com/RegisUniversity/MSES602_helloWorld#readme",
+  "homepage": "https://github.com/Yabina/MSES602_HelloWorld#readme",
   "dependencies": {
     "http": "0.0.0",
     "mocha": "^8.1.3"

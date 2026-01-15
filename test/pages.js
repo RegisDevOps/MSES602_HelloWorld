@@ -16,7 +16,7 @@ var assert = require('assert'),
 describe('/', function () {
   it('should return 200', function (done) {
     this.timeout(5000);
-    http.get('http://localhost:8082', function (res) {   
+    http.get('http://127.0.0.1:8082/', function (res) {   
       assert.equal(200, res.statusCode);
       done();
     });
@@ -24,7 +24,7 @@ describe('/', function () {
 
   it('should say "Hello World."', function (done) {
     this.timeout(5000);    
-    http.get('http://localhost:8082', function (res) {
+    http.get('http://127.0.0.1:8082/', function (res) {
     var data = '';
 
     res.on('data', function (chunk) {
